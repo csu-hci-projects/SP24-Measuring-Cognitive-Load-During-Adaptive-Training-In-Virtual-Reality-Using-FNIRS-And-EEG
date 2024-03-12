@@ -34,3 +34,8 @@ SimpleOutletTriggerEvent.cs is available for viewing. It is based on the GitHub 
 My modified code is also available in this forked repo:
 
 https://github.com/Jalynnn/asTask.git
+
+# Next Steps
+
+* Modify the code to send a string message and make the ID sent meaningful. This is necessary since the fNIRS Aurora software only picks up on the ID, not the string. This is not a problem with Brain Vision, as the string is recognized.
+* Triggers must be sent with every recorded event, not just when the start button is pressed. While keeping the trigger on the start button is good, it also needs to be included in the same code that sends the recorded events. Lucas mentioned a good place to locate this additional code. This still needs to occur.
