@@ -17,7 +17,6 @@ My specific files are available throughout this current repo. To be exact, my mo
 Includes the following sections:
 
 * Opening Software / Prepare Hardware
-  ** The order of events I found to best support running LSL
 * After Setting Up Participant with fNIRS / EEG / Cap / Head-Mounted Display (Quest 3)
 * When Complete
 * Data Collection
