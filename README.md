@@ -8,4 +8,4 @@ My class project slightly extends this virtual environment to allow the Lab Stre
 
 https://github.com/labstreaminglayer/LSL4Unity.git
 
-My specific files are available throughout this current repo. To be exact, the modifications I made include integrating code into Lucas's work so that triggers could be sent when the start button is pressed, an intermediate file using Python that allows the trigger to be sent and received in Aurora, the fNIRS software.
+My specific files are available throughout this current repo. To be exact, my modifications include integrating code into Lucas's work so that triggers could be sent at all recorded events and a file describing the steps required to receive the LSL successfully triggers in both the fNIRS and Aurora software.
