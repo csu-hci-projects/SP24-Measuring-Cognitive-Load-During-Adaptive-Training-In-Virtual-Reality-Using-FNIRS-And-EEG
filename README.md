@@ -22,3 +22,7 @@ Includes the following sections:
 * Data Collection
 * Data Analysis
 * Self Documentation
+
+## Unity _ LSL _ Aurora
+
+Includes all of the links, my understanding of each resource, and how they benefit me.
