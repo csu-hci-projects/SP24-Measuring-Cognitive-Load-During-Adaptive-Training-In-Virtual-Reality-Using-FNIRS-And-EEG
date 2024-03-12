@@ -9,3 +9,17 @@ My class project slightly extends this virtual environment to allow the Lab Stre
 https://github.com/labstreaminglayer/LSL4Unity.git
 
 My specific files are available throughout this current repo. To be exact, my modifications include integrating code into Lucas's work so that triggers could be sent at all recorded events and a file describing the steps required to receive the LSL successfully triggers in both the fNIRS and Aurora software.
+
+# Files Included
+
+## How to Run the Project With LSL
+
+Includes the following sections:
+
+* Opening Software / Prepare Hardware
+  ** The order of events I found to best support running LSL
+* After Setting Up Participant with fNIRS / EEG / Cap / Head-Mounted Display (Quest 3)
+* When Complete
+* Data Collection
+* Data Analysis
+* Self Documentation
