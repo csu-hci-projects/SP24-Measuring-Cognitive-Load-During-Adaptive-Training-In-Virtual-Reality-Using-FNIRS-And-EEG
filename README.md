@@ -1,4 +1,4 @@
-# SP24-Measuring-Cognitive-Load-During-Adaptive-Training-In-Virtual-Reality-Using-FNIRS-And-EEG
+# Measuring Cognitive Load During Adaptive Training In Virtual Reality Using fNIRS And EEG
 
 This is an extension GitHub repo for the ONR-XR multi-year project that my class project is extending. The original virtual environment has been created by NUILab member Lucas Plabst, linked here:
 
