@@ -25,4 +25,12 @@ Includes the following sections:
 
 ## Unity _ LSL _ Aurora
 
-Includes all of the links, my understanding of each resource, and how they benefit me.
+Includes all the links, my understanding of each resource, and how they benefit me.
+
+## Modified Code
+
+SimpleOutletTriggerEvent.cs is available for viewing. It is based on the GitHub link in the first section above. The only thing modified is an additional method that does the same as the exit collision method but allows for a non-collision event. Due to unfamiliarity with the provided code, it was easiest not to modify too much.
+
+My modified code is also available in this forked repo:
+
+https://github.com/Jalynnn/asTask.git
