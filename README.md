@@ -4,7 +4,7 @@ This is an extension GitHub repo for the ONR-XR multi-year project that my class
 
 https://github.com/NuiLab/asTask.git
 
-My class project slightly extends this virtual environment to allow the Lab Streaming Layer (LSL) to be integrated. LSL is crucial for both fNIRS and EEG measures to allow triggers to be sent and for measures to start recording as soon as Meta Quest 3 users begin their training. For simplicity, the code I created and added to the original environment originated in the following link:
+My class project slightly extends this virtual environment to allow the Lab Streaming Layer (LSL) to be integrated. LSL is crucial for both fNIRS and EEG measures to allow triggers to be sent and for measures to include time stamps as soon as Meta Quest 3 users begin their training. For simplicity, the code I created and added to the original environment originated in the following link:
 
 https://github.com/labstreaminglayer/LSL4Unity.git
 
